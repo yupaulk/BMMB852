@@ -1,4 +1,4 @@
-## 1. Tell us a bit about the organism.
+## 1. Tell us a bit about the organism
 
 In GFF3, the #! specifies information about the species being annotated. We can get the accession ID, which is GCA_000280705.1.
 With a quick google search on the accession ID, we can access the emsembl information about it. Here is the [link](https://useast.ensembl.org/Jaculus_jaculus/Info/Annotation)
