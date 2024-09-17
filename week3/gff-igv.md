@@ -58,4 +58,4 @@ MN908947.3	custom	gene	300	1500	.	+	.	ID=custom_gene;Name=FooGene
 g. Load custom-annot.gff3 to the same IGV session.
 
 We can see the FooGene annotation on a separate track. It is forward-stranded and at the 300 to 1500 interval.
-The screenshot can be accessed [here](https://github.com/yupaulk/BMMB852/blob/main/week3/igv-foogene-track.png).
+The screenshot can be accessed [here](https://github.com/yupaulk/BMMB852/blob/main/week3/images/igv-foogene-track.png).
