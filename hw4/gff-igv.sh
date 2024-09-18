@@ -1,3 +1,6 @@
+#!/usr/bin/env bash
+set -uex
+
 # Constants
 GENOME="genome.fa"
 CUSTOM="custom-annot.gff3"
