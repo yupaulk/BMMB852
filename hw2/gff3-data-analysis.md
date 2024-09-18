@@ -11,14 +11,14 @@ a. Go to home directory:
 cd ~
 ```
 
-b. Create a week2 folder
+b. Create a hw2 folder
 ```
-mkdir week2
+mkdir hw2
 ```
 
-c. Go to week2 folder
+c. Go to hw2 folder
 ```
-cd week2
+cd hw2
 ```
 
 d. Download Jaculus jaculus GFF3 gzip file

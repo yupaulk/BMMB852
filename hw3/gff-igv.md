@@ -4,7 +4,7 @@ Check the discussion thread: List of student repositories and verify that your r
 
 Rewrite your previous homework as a Markdown file. Commit the file next to the current file. 
 
-Here is the [link](https://github.com/yupaulk/BMMB852/blob/main/week2/gff3-data-analysis.md) to the newly added Markdown file.
+Here is the [link](https://github.com/yupaulk/BMMB852/blob/main/hw2/gff3-data-analysis.md) to the newly added Markdown file.
 
 ## 2. Visualize the GFF file of your choice.
 
@@ -60,4 +60,4 @@ g. Load custom-annot.gff3 to the same IGV session.
 We can see the FooGene annotation on a separate track. It is forward-stranded and at the 300 to 1500 interval.
 The screenshot is as shown below:
 
-![here](https://github.com/yupaulk/BMMB852/blob/main/week3/images/igv-foogene-track.png).
+![here](https://github.com/yupaulk/BMMB852/blob/main/hw3/images/igv-foogene-track.png).

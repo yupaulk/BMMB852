@@ -8,11 +8,11 @@
     a. Go to home directory:
     cd ~
 
-    b. Create a week2 folder
-    mkdir week2
+    b. Create a hw2 folder
+    mkdir hw2
 
-    c. Go to week2 folder
-    cd week2
+    c. Go to hw2 folder
+    cd hw2
 
     d. Download Jaculus jaculus GFF3 gzip file
     wget https://ftp.ensembl.org/pub/current_gff3/jaculus_jaculus/Jaculus_jaculus.JacJac1.0.112.gff3.gz
@@ -38,11 +38,11 @@
     a. Go to home directory:
     cd ~
 
-    b. Create a week2 folder
-    mkdir week2
+    b. Create a hw2 folder
+    mkdir hw2
 
-    c. Go to week2 folder
-    cd week2
+    c. Go to hw2 folder
+    cd hw2
 
     d. Download Jaculus jaculus GFF3 gzip file
     wget https://ftp.ensembl.org/pub/current_gff3/jaculus_jaculus/Jaculus_jaculus.JacJac1.0.112.gff3.gz
@@ -63,11 +63,11 @@
     a. Go to home directory:
     cd ~
 
-    b. Create a week2 folder
-    mkdir week2
+    b. Create a hw2 folder
+    mkdir hw2
 
-    c. Go to week2 folder
-    cd week2
+    c. Go to hw2 folder
+    cd hw2
 
     d. Download Jaculus jaculus GFF3 gzip file
     wget https://ftp.ensembl.org/pub/current_gff3/jaculus_jaculus/Jaculus_jaculus.JacJac1.0.112.gff3.gz
@@ -87,11 +87,11 @@
     a. Go to home directory:
     cd ~
 
-    b. Create a week2 folder
-    mkdir week2
+    b. Create a hw2 folder
+    mkdir hw2
 
-    c. Go to week2 folder
-    cd week2
+    c. Go to hw2 folder
+    cd hw2
 
     d. Download Jaculus jaculus GFF3 gzip file
     wget https://ftp.ensembl.org/pub/current_gff3/jaculus_jaculus/Jaculus_jaculus.JacJac1.0.112.gff3.gz
@@ -114,11 +114,11 @@
     a. Go to home directory:
     cd ~
 
-    b. Create a week2 folder
-    mkdir week2
+    b. Create a hw2 folder
+    mkdir hw2
 
-    c. Go to week2 folder
-    cd week2
+    c. Go to hw2 folder
+    cd hw2
 
     d. Download Jaculus jaculus GFF3 gzip file
     wget https://ftp.ensembl.org/pub/current_gff3/jaculus_jaculus/Jaculus_jaculus.JacJac1.0.112.gff3.gz
@@ -150,11 +150,11 @@
     a. Go to home directory:
     cd ~
 
-    b. Create a week2 folder
-    mkdir week2
+    b. Create a hw2 folder
+    mkdir hw2
 
-    c. Go to week2 folder
-    cd week2
+    c. Go to hw2 folder
+    cd hw2
 
     d. Download Jaculus jaculus GFF3 gzip file
     wget https://ftp.ensembl.org/pub/current_gff3/jaculus_jaculus/Jaculus_jaculus.JacJac1.0.112.gff3.gz
