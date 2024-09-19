@@ -10,19 +10,20 @@ GENOME_URL="http://ftp.ensemblgenomes.org/pub/viruses/fasta/sars_cov_2/dna/Sars_
 GFF_URL="http://ftp.ensemblgenomes.org/pub/viruses/gff3/sars_cov_2/Sars_cov_2.ASM985889v3.101.gff3.gz"
 
 # The name of the genome file
-GENOME="genome.fa"
+GENOME="genome-hahn.fa"
 
 # The name of the gff3 file
-GFF="species.gff"
+GFF="species-hahn.gff"
 
 # The name of the genes file
-GENES="genes.gff"
+GENES="genes-hahn.gff"
 
 # The name of the custom annotation file
-CUSTOM="custom.gff3"
+CUSTOM="custom-hahn.gff3"
 
 # The name of the accession ID of the species
 ACCESSION=MN908947.3
+
 
 # ------ NO CHANGES NECESSARY BELOW THIS LINE ------
 
@@ -47,7 +48,7 @@ cat ${GENES} | wc -l
 # Create a custom GFF3 file and add to IGV as a separate track. Save it as custom.gff3. 
 echo "${ACCESSION}	custom	gene	300	15000	.	+	.	ID=custom_gene;Name=FooGene" > ${CUSTOM}
 
-# Load custom.gff3 to the same IGV session
+# Load custom.gff3 to the same IGV session.
 # Check if IGV is installed and executable
 if ! command -v igv &> /dev/null
 then
