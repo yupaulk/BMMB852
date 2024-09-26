@@ -1,0 +1,4 @@
+# ignore fasta and fastq files
+**/*.fa
+**/*.fq
+**/*.fq.gz
