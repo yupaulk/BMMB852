@@ -35,7 +35,7 @@ unzip -o ncbi_dataset.zip
 # Make a copy of the genome under a simpler name
 ln -sf ${GENOME_PATH} ${GENOME}
 
-# Check the file size of the genome
+# Check the file size of the genome (note: cannot use the shortcut ${GENOME})
 echo "Size of the file:"
 stat --format="%s" ${GENOME_PATH}
 
