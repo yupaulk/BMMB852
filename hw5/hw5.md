@@ -76,7 +76,7 @@ However, the choice between longer reads and more reads depends on the specific 
 ### 3. How much data would be generated when covering the Yeast, the Drosophila or the Human genome at 30x?
 Using the figure above, we can play around with the values of each elements there. 
 
-#### Yeast
+### Yeast:
 For the case of yeast, the genome size (G) is about 12,000,000 bp or 12 Mbp. Calculating from Question 1 (1.00005x ratio), the **size of the fasta file is 12,000,600 Bytes**. 
 
 We fix the coverage (C) to 30 and read length (L) to 150 bp. We get **number of reads (N) of 2,400,000 reads**.
@@ -85,7 +85,7 @@ For a 30x coverage, the **fastq file** is more or less 12,000,000 x 30 = 360,000
 
 Calculating the compression rate from Question 2, we get a compression rate of 80%. Thus, we get a **compressed fastq size** of 72,000,000 or **72 MB**.
 
-#### Drosophila
+### Drosophila:
 For the case of Drosophila, the genome size (G) is about 140,000,000 bp or 140 Mbp. Calculating from Question 1 (1.00005x ratio), the **size of the fasta file is 140,007,000 Bytes**. 
 
 We fix the coverage (C) to 30 and read length (L) to 150 bp. We get **number of reads (N) of 28,000,000 reads**.
@@ -94,7 +94,7 @@ For a 30x coverage, the **fastq file** is more or less 140,000,000 x 30 = 4,200,
 
 Calculating the compression rate from Question 2, we get a compression rate of 80%. Thus, we get a **compressed fastq size** of 840,000,000 or **840 MB**.
 
-#### Human
+### Human:
 For the case of human, the genome size (G) is about 3,200,000,000 bp or 3.2 Gbp. Calculating from Question 1 (1.00005x ratio), the **size of the fasta file is 3,200,160,000 Bytes**. 
 
 We fix the coverage (C) to 30 and read length (L) to 150 bp, We get **number of reads (N) of 640,000,000 reads**.
