@@ -1,0 +1,85 @@
+Lecture 1:
+
+1. Set up your computer.
+
+Done.
+
+2. Follow the installation instructions.
+
+Done.
+
+3. How can you tell that you were successful?  
+
+Upon running doctor.py, I got the following output:
+# Doctor! Doctor! Give me the news.
+# Checking symptoms ...
+# bwa           ... OK
+# datamash      ... OK
+# fastqc -h     ... OK
+# hisat2        ... OK
+# featureCounts ... OK
+# efetch        ... OK
+# esearch       ... OK
+# samtools      ... OK
+# fastq-dump    ... OK
+# bowtie2       ... OK
+# bcftools      ... OK
+# seqtk         ... OK
+# seqkit        ... OK
+# bio           ... OK
+# fastq-dump -X 1 -Z SRR1553591 ... OK
+# You are doing well, Majesty!
+
+4. Can you run the samtools program?
+
+Yes.
+
+5. What version is your samtools program?
+
+version 1.20
+
+6. Share the link to your GitHub repository that you have set up.
+
+https://github.com/yupaulk
+
+
+Lecture 2:
+
+1. Describe a Unix command not discussed in the class or the book. Try to find something that might be useful. When would you use that command?
+
+chmod - to change the permissions of the file for read, write, execute operations.
+
+2. Describe a customization for the command you chose above (describe the effect of a flag/parameter).
+
+chmod 777 foldername
+
+Description: the 777 flag allows read, write, and execute permissions to foldername for everyone.
+
+3. What flags will make the ls command write out the files sizes in “human-friendly” mode?
+
+-l
+
+It shows the details like permissions, number of links, owner, group, size, and modification date.
+
+4. What flag will make the rm command ask for permission when removing a file?
+
+-i 
+
+It prompts before every removal.
+
+5. Create a nested directory structure. Create files in various directories. 
+
+Done.
+
+6. List the absolute and relative path to a file.
+
+absolute: /home/linux/work/1/2/3
+
+In the home directory (cd ~),
+relative: work/1/2/3
+
+7. Demonstrate path shortcuts using the home directory, current directory, and parent directory.
+
+home: ~
+current directory: .
+parent directory: ..
