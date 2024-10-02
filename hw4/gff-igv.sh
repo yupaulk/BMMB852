@@ -60,3 +60,7 @@ igv -g ${GENOME} ${CUSTOM} &
 
 # Print message indicating that IGV is starting
 echo "Launching IGV with genome ${GENOME} and annotation ${CUSTOM}"
+
+# Perform sequence ontology
+# Make sure to install bio by typing: bio --download
+bio explain gene
