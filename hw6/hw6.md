@@ -73,3 +73,16 @@ We see here seven sequences with count of 2. It was flagged as warning by fastqc
 
 We see here a good quality graph showing a flat line at zero for all read positions. This indicates that they did not detect any adapter sequence artifacts.
 
+### Trimming low quality reads using fastp:
+
+We saw from our evaluation that the first 10 reads from the [Per base sequence content](images/4-per-base-seq.png). We use fastp to trimm the first 10 read positions.
+
+### Evaluation of the read quality after trimming:
+
+![trim-per-base](images/trim-per-base.png)
+
+![trim-per-base-seq](images/trim-per-base-seq.png)
+
+After trimming, we see good quality reads in the Per base sequence quality and Per base sequence content. However, the separation between %A and %T graphs cannot be resolved. The same goes for Per sequence GC content, as shown below:
+
+![trim-per-seq-gc](images/trim-per-seq-gc.png)
