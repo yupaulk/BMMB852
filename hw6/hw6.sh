@@ -3,7 +3,7 @@
 # Set the trace to show the commands as executed
 set -uex
 
-# Download E. coli WGS
+# Download Burkholderia thailandensis RNA-Seq
 # See https://www.ebi.ac.uk/ena/browser/view/SRR957824 for details
 ACCESSION="SRR5790106"
 

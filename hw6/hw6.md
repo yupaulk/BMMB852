@@ -11,6 +11,12 @@ Locate the hw6.sh file and run it
 bash hw6.sh
 ```
 
+### Information about the data:
+
+The data came from Project: PRJNA392446 "Comparison of transcriptomes of wild-type cells and cells deleted for MftR as well as both strain grown in absence and presence of 5 mM urate Overall design: Four different samples, each analyzed in triplicate." The organism is Burkholderia thailandensis. ((Link to paper)[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5732026/])
+
+![data.png](images/data.png)
+
 ### Evaluation of the read quality:
 
 ***Per base sequence quality:***
