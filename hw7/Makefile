@@ -82,7 +82,7 @@ all: genome simulate download trim
 
 clean:
 	@echo "Cleaning up files..."
-	rm -f *.fa *.fq *.fastq *.txt *.zip *.html *.json
+	rm -f *.fa *.fq *.fastq *.txt *.zip *.html *.json README.md
 	rm -rf ncbi_dataset
 	rm -rf reads
 	rm -rf trimmed_reads
