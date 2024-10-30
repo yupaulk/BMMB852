@@ -68,6 +68,9 @@ download:
 	# Download 100000 read pairs with fastq-dump into the reads directory
 	@echo "Downloading 100000 read pairs..."
 	fastq-dump -X ${N} -F --outdir reads --split-files ${SRR}
+	
+	@echo "Running fastqc..."
+	fastqc reads/${SRR}_1.fastq
 
 trim:
 	@echo "Trimming 10 reads using fastp..."
