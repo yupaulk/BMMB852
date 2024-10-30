@@ -1,4 +1,4 @@
-## Week 7: Generate a BAM alignment file
+## Week 8: Generate a BAM alignment file
 
 The reference genome is a Vibrio cholerae whole genome sequence with Accession ID: GCF_008369605.1. The SRR is a Vibrio cholerae with SRR ID: SRR31137229. 
 
