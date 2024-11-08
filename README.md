@@ -13,3 +13,4 @@ Directory:
 - [HW#7: Write a Makefile](https://github.com/yupaulk/BMMB852/tree/main/hw7)
 - [HW#8: Generate a BAM alignment file](https://github.com/yupaulk/BMMB852/tree/main/hw8)
 - [HW#9: Filter a BAM file](https://github.com/yupaulk/BMMB852/tree/main/hw9)
+- [HW#10: Generate a variant call file](https://github.com/yupaulk/BMMB852/tree/main/hw10)
