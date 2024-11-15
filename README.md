@@ -1,5 +1,5 @@
 # BMMB852
-Author: Paul Yu
+Author: Paul K. Yu
 
 This is a repository of my home works for the BMMB 852 - Applied Bioinformatics class at the Pennsylvania State University, taught by Prof. Istvan Albert.
 
@@ -14,3 +14,5 @@ Directory:
 - [HW#8: Generate a BAM alignment file](https://github.com/yupaulk/BMMB852/tree/main/hw8)
 - [HW#9: Filter a BAM file](https://github.com/yupaulk/BMMB852/tree/main/hw9)
 - [HW#10: Generate a variant call file](https://github.com/yupaulk/BMMB852/tree/main/hw10)
+- [HW#11: Establish the effects of variants](https://github.com/yupaulk/BMMB852/tree/main/hw11)
+
