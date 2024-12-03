@@ -1,3 +1,6 @@
+# ignore Prof. Istvan Albert src files
+src/
+
 # ignore fasta and fastq files
 **/*.fa*
 **/*.fq*
