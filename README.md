@@ -16,3 +16,4 @@ Directory:
 - [HW#10: Generate a variant call file](https://github.com/yupaulk/BMMB852/tree/main/hw10)
 - [HW#11: Establish the effects of variants](https://github.com/yupaulk/BMMB852/tree/main/hw11)
 - [HW#12: Automate a VCF calling pipeline](https://github.com/yupaulk/BMMB852/tree/main/hw12)
+- [HW#13: Generate an RNA-Seq count matrix](https://github.com/yupaulk/BMMB852/tree/main/hw13)
