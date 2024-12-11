@@ -17,3 +17,4 @@ Directory:
 - [HW#11: Establish the effects of variants](https://github.com/yupaulk/BMMB852/tree/main/hw11)
 - [HW#12: Automate a VCF calling pipeline](https://github.com/yupaulk/BMMB852/tree/main/hw12)
 - [HW#13: Generate an RNA-Seq count matrix](https://github.com/yupaulk/BMMB852/tree/main/hw13)
+- [HW#14: Perform a differential expression analysis](https://github.com/yupaulk/BMMB852/tree/main/hw14)
